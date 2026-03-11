@@ -9,3 +9,7 @@ function listFilmsOnScreen(movie) {
   var moviesList = document.getElementById("moviesList");
   moviesList.innerHTML = moviesList.innerHTML + elementMovie;
 }
+
+function printScreen() {
+  window.print();
+}
