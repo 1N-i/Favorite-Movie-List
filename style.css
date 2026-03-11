@@ -1,7 +1,7 @@
 body {
   font-family: "Roboto Mono", monospace;
   text-align: center;
-  background-image: url("https://www.coladaweb.com/wp-content/uploads/2017/05/20170531-teatro.png");
+  background-image: url("theatre.png");
   background-size: 100% 100%;
   background-position: center top;
   background-repeat: no-repeat;
@@ -22,7 +22,7 @@ body {
   margin-top: 5px;
 }
 
-#listaFilmes img {
+#moviesList img {
   margin: 15px;
   max-height: 200px;
 }
